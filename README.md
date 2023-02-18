@@ -1,6 +1,7 @@
 # Market-Basket-Analysis-in-SQL
 This shows how to create a market Basket Analysis in SQL 
 
+<img alt="alternate text goes here" src="lets-do-this.jpg" width="60%" />
 
 
 ```sql
