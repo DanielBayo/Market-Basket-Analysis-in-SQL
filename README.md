@@ -1,7 +1,11 @@
 # Market-Basket-Analysis-in-SQL
-This shows how to create a market Basket Analysis in SQL 
+### This shows how to create a market Basket Analysis in SQL
 
-<img alt="alternate text goes here" src="lets-do-this.jpg" width="60%" />
+### What is Market Basket Analysis?
+
+Market basket analysis helps a retailer to know what customers often purchase together, and hence, knowing what to put up for promotion when need be. Putting two items that are mostly purchased together on promotion at the same time would not create a significant increase in revenue, while a promotion involving just one of the items would likely drive sales of the other. Market basket analysis may provide the retailer with information to understand the purchase behavior of a buyer. This information will enable the retailer to understand the buyer's needs and rewrite the store's layout accordingly, develop cross-promotional programs, or even capture new buyers (much like the cross-selling concept).
+
+<img alt="alternate text goes here" src="AffinityAnalysis.png" width="60%" />
 
 
 ```sql
